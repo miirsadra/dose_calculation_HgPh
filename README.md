@@ -35,6 +35,6 @@ It takes into account the amount of active agent, solvent, spoon size, and densi
 * **Maximum single dose (mg)**: Enter the maximum single dose defined by Hg. Ph. in milligrams. This value should be a positive integer.
 * **Maximum daily dose (mg)**: Enter the maximum daily dose defined by Hg. Ph. in milligrams. This value should be a positive integer.
 * **Number of times the medicine needs to be taken per day**: Enter the number of times the medicine needs to be taken per day. This value should be a positive integer.
-* 
+
 5. The script will calculate and display the ordered quantity in one spoon and one day based on the provided inputs. It will also check if the calculated dose exceeds the maximum single dose and maximum daily dose defined by Hg. Ph.
 
