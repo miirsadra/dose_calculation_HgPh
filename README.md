@@ -1,9 +1,12 @@
 # Liquid Dosage Form Dose Calculation
 
 Author: Mirsadra Molaei  
+
 Date created: 2023-05-18  
+
 Python version: 3.10.11  
-Description: Dose calculation of liquid dosage forms based on the Hungarian Pharmacopoeia (Hg. Ph.)
+
+Description: Dose calculation of liquid dosage forms based on the Hungarian Pharmacopoeia (Hg. Ph.). 
 
 ## Overview
 
