@@ -23,17 +23,18 @@ It takes into account the amount of active agent, solvent, spoon size, and densi
 3. Run the following command to execute the script: `python dose_calculation.py`
 
 4. Follow the prompts and enter the required information:
-* Amount of active agent weighted in grams: Enter the amount of the active agent used in grams. This value should be a positive number.
-* Amount of solvent weighted in grams: Enter the amount of the solvent used in grams. This value should be a positive number.
-* Spoon size: Enter the spoon size as follows:
+* **Amount of active agent weighted in grams**: Enter the amount of the active agent used in grams. This value should be a positive number.
+* **Amount of solvent weighted in grams**: Enter the amount of the solvent used in grams. This value should be a positive number.
+* **Spoon size**: Enter the spoon size as follows:
     1 for table spoon (15 grams)
     2 for child spoon (10 grams)
     3 for tea spoon (5 grams)
-* Density of the active agent: Enter the density of the active agent as follows:
+* **Density of the active agent**: Enter the density of the active agent as follows:
     1 for aqueous (density: 1)
     2 for syrup (density: 1.3)
-* Maximum single dose (mg): Enter the maximum single dose defined by Hg. Ph. in milligrams. This value should be a positive integer.
-* Maximum daily dose (mg): Enter the maximum daily dose defined by Hg. Ph. in milligrams. This value should be a positive integer.
-* Number of times the medicine needs to be taken per day: Enter the number of times the medicine needs to be taken per day. This value should be a positive integer.
+* **Maximum single dose (mg)**: Enter the maximum single dose defined by Hg. Ph. in milligrams. This value should be a positive integer.
+* **Maximum daily dose (mg)**: Enter the maximum daily dose defined by Hg. Ph. in milligrams. This value should be a positive integer.
+* **Number of times the medicine needs to be taken per day**: Enter the number of times the medicine needs to be taken per day. This value should be a positive integer.
+* 
 5. The script will calculate and display the ordered quantity in one spoon and one day based on the provided inputs. It will also check if the calculated dose exceeds the maximum single dose and maximum daily dose defined by Hg. Ph.
 
