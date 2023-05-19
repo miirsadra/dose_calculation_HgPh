@@ -38,3 +38,8 @@ It takes into account the amount of active agent, solvent, spoon size, and densi
 
 5. The script will calculate and display the ordered quantity in one spoon and one day based on the provided inputs. It will also check if the calculated dose exceeds the maximum single dose and maximum daily dose defined by Hg. Ph.
 
+# Contributing
+
+Contributions to this repository are welcome. If you want to add other calculations for different dosage forms or improve the existing code, you can fork this repository, make your changes in a new branch, and submit a pull request.
+
+Please ensure that any changes or additions follow the relevant guidelines and coding standards.
