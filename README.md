@@ -19,11 +19,17 @@ It takes into account the amount of active agent, solvent, spoon size, and densi
 
 ## Usage
 
-1. Clone the repository or download the `dose_calculation.py` file to your local machine.
+1. Clone the repository or download the `dose_calculation.py` file to your local machine.  
 
-2. Open a terminal or command prompt and navigate to the directory where the `dose_calculation.py` file is located.
+Example: `git clone <repository_url>`
 
-3. Run the following command to execute the script: `python dose_calculation.py`
+2. Open a terminal or command prompt and navigate to the directory where the `dose_calculation.py` file is located.  
+
+Example: `cd dose_calculation_HgPh`
+
+3. Run the following command to execute the script:  
+
+Example: `python dose_calculation.py`
 
 4. Follow the prompts and enter the required information:
 * **Amount of active agent weighted in grams**: Enter the amount of the active agent used in grams. This value should be a positive number.
